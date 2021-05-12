@@ -1,4 +1,8 @@
 This is new file abc....
+<<<<<<< HEAD
 
 
 AAABBBCCC
+=======
+AAAAAAA
+>>>>>>> fd36f78c0e10cb1d842ca1bacd0a9ab0e922c139
